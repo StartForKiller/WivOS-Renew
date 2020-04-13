@@ -1,0 +1,6 @@
+[submodule "submodules/qloader2"]
+	path = submodules/qloader2
+	url = git@github.com:qword-os/qloader2.git
+[submodule "lai"]
+	path = lai
+	url = git@github.com:qword-os/lai.git
